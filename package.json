@@ -1,0 +1,17 @@
+{
+  "name": "foreground-window",
+  "version": "1.0.0",
+  "description": "Gets the foreground window",
+  "main": "foreground-window.js",
+  "keywords": [
+    "foreground",
+    "window",
+    "windows",
+    "process"
+  ],
+  "author": "Dave Parslow",
+  "license": "ISC",
+  "dependencies": {
+    "ffi": "^2.0.0"
+  }
+}
