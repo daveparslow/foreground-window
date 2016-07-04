@@ -1,7 +1,7 @@
 {
   "name": "foreground-window",
   "version": "1.0.0",
-  "description": "Gets the foreground window",
+  "description": "Gets the process id (pid) of the foreground window (i.e. the window that is getting the input)",
   "main": "foreground-window.js",
   "keywords": [
     "foreground",
